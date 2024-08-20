@@ -21,7 +21,3 @@ Depois de criada a lista:
 Obs: você quem manda no tamanho da lista! No exemplo a lista é composta por 4 estudantes. 😊
 Fique à vontade caso queira adicionar novos dados e fazer novas validações. Se desafie! 🚀
 
-# 📅 Entrega
-Esse desafio deve ser entregue a partir da plataforma da Rocketseat. 
-Você pode nos enviar o link do CodePen ou GitHub com o seu código.  💜
-
